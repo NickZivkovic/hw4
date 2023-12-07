@@ -1,0 +1,8 @@
+1. No, it does not change the variable after the funtion call occurs 
+
+2. Variable b changes after the function call 
+
+3. The distinction lies in the fact that, in Python, integers are immutable and passed by value. 
+This means that when altered within a function, the changes do not impact the original value outside the function. 
+On the other hand, dictionaries are mutable and passed by reference, signifying that modifications made within the function 
+directly affect the original dictionary variable.

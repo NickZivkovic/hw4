@@ -1,0 +1,3 @@
+1. The initial benefit is reusability, enabling the programmer to utilize common code and inherit methods and properties from the base class to the child class. 
+2. The subsequent advantage is maintainability, facilitating generalized modifications to shared behaviors or attributes across multiple classes simultaneously. 
+This reduces the likelihood of introducing errors and ensures consistency throughout the classes.
